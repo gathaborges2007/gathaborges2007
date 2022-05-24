@@ -1,3 +1,6 @@
+-# sobre mim  
+
+## editando 
 - 👋 oi sou  @gathaborges2007
 - 👀 aprender a progamar em novas  linguagens 
 - 🌱 atualmente estou aprendendo a progamar em linguagem JavaScript  e Scratch
